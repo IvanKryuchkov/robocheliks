@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robocheliks/static/css/main.37b447b2.chunk.css",
+    "main.js": "/robocheliks/static/js/main.a1a574a8.chunk.js",
+    "main.js.map": "/robocheliks/static/js/main.a1a574a8.chunk.js.map",
+    "runtime-main.js": "/robocheliks/static/js/runtime-main.88abf284.js",
+    "runtime-main.js.map": "/robocheliks/static/js/runtime-main.88abf284.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robocheliks/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6bf68a2f.chunk.js": "/robocheliks/static/js/2.6bf68a2f.chunk.js",
+    "static/js/2.6bf68a2f.chunk.js.map": "/robocheliks/static/js/2.6bf68a2f.chunk.js.map",
+    "index.html": "/robocheliks/index.html",
+    "precache-manifest.2f9900544c2bc75ddff69fd926871c56.js": "/robocheliks/precache-manifest.2f9900544c2bc75ddff69fd926871c56.js",
+    "service-worker.js": "/robocheliks/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robocheliks/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.37b447b2.chunk.css.map": "/robocheliks/static/css/main.37b447b2.chunk.css.map",
+    "static/js/2.6bf68a2f.chunk.js.LICENSE": "/robocheliks/static/js/2.6bf68a2f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88abf284.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6bf68a2f.chunk.js",
+    "static/css/main.37b447b2.chunk.css",
+    "static/js/main.a1a574a8.chunk.js"
+  ]
+}
